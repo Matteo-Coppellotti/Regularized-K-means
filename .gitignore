@@ -1,4 +1,17 @@
 /.vscode/
 /build/
 /data/build/
+/data/1d/
+/data/2d/
+/data/3d/
 /application/build/
+/data_reconstructed/1d/
+/data_reconstructed/2d/
+/data_reconstructed/3d/
+/output/missing/
+/output/non_reg/
+/output/reg/
+/output_competitors/1d/
+/output_competitors/2d/
+/output_competitors/3d/
+/output_competitors/recontructed/
