@@ -1,0 +1,3 @@
+[submodule "fdapde-cpp"]
+	path = fdapde-cpp
+	url = https://github.com/fdaPDE/fdaPDE-cpp.git
